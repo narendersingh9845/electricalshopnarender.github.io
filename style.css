@@ -1,0 +1,133 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.wrapper
+	{
+	width: 1170px; 
+	margin: auto;
+	}
+header
+{
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url("E:/images/fantasy_desktop-normal.jpg");
+	height: 60vh;
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-position: center;
+	position: relative;
+}
+.nav-area
+{
+	float:right;
+	list-style: none;
+	margin-top:40px;
+}
+.nav-area li{
+	display: inline-block;
+}
+.nav-area li a{
+	color:#fff;
+	text-decoration: none;
+	padding: 5px 20px;
+	font-size:30px;
+}
+.nav-area li a:hover
+{
+	background: #fff;
+	color: #333;
+}
+
+
+
+.logo img
+{
+	width: 150px;
+	float: left;
+	height: auto ;
+}
+
+
+.Welcome-text
+{
+	position: absolute;
+	width:600px;
+	height: 300px;
+	margin: 10% 27%;
+	text-align: center;
+}
+.Welcome-text h1
+{
+	text-align: center;
+	color: #fff;
+	text-transform: uppercase;
+	font-size: 40px;
+	
+}
+.Welcome-text p
+{
+	text-align: center;
+	color: #fff;
+	text-transform: uppercase;
+	font-size: 15px;
+	
+}
+.Welcome-text a
+{
+	border: 1px solid #fff;
+	padding: 10px 25px;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 15px;
+	margin-top: 20px;
+	display: inline-block;
+	color: #fff;
+}
+.Welcome-text a:hover
+{
+	background: #fff;
+	color: #333;
+}
+.Welcome-text h2
+{
+	text-align: center;
+	color: #333;
+	text-transform: blink;
+	font-size: 40px;
+	
+}
+.Welcome-text h3
+{
+	text-align: center;
+	color: #fff;
+	text-transform: uppercase;
+	font-size: 40px;
+	
+}
+
+*{
+	margin: 0;
+	padding: 0;
+}
+.wrapper
+	{
+	width: 1170px; 
+	margin: auto;
+	}
+footer
+{
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url("E:/images/fantasy_desktop-normal.jpg");
+	height: 20vh;
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-position: center;
+	position: relative;
+}
+
+.img
+{
+float:left;
+margin-top:15px
+}
+
+
+
